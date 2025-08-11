@@ -11,4 +11,4 @@ If they want to split their project into multi repositories, a tool like repo is
 5)...
 
 3.Test?
-I have add two test repositories to let simple repo to manage them
+I have add two test repositories to let simple repo to manage them alekhya
